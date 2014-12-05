@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/fitness-Apps/marathonFinder",
   "dependencies": {
-    "express": "^4.6.1"
+    "express": "^4.6.1",
+    "webkit-devtools-agent": "^0.2.5"
   }
 }
